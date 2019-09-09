@@ -1,0 +1,31 @@
+{
+  "EmpresaId": 170,
+  "CNPJ_CPF": "30696708817",
+  "Pessoa": 2,
+  "RG": "240078524SP",
+  "Nome": "Guilherme Kauê Julio Araújo",
+  "Situacao": 1,
+  "EnderecoPrincipal": {
+    "UF": "SP",
+    "Cidade": "Garça",
+    "CodigoIBGE": "3516705",
+    "Cep": "17400000",
+    "Endereco": "Avenida Doutor Rafael Paes de Barros",
+    "Numero": "99",
+    "Complemento": "Casa",
+    "Bairro": "Centro"
+  },
+  "ContatoPrincipal": {
+    "Email": "guilhermekauejulioaraujo_@transmazza.com.br",
+    "Telefone": {
+      "DDI": "55",
+      "DDD": "14",
+      "Phone": "38265518"
+    },
+    "Celular": {
+      "DDI": "55",
+      "DDD": "14",
+      "Phone": "993129119"
+    }
+  }
+}
