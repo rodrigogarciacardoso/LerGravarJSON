@@ -52,7 +52,7 @@ namespace CSharp_Json
                 }
             }
 
-            IRestResponse response = client.Execute(request); // executar a requisição
+            var response = client.Execute(request); // executar a requisição
             var retorno = new RetornoAPIViewModel<T>
             {
                 Status = (int)response.StatusCode,

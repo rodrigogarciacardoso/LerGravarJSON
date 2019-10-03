@@ -62,7 +62,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="retEndereco.cs" />
+    <Compile Include="RetornoApi.cs" />
     <Compile Include="RetornoApiViewModel.cs" />
+    <Compile Include="TokenViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
